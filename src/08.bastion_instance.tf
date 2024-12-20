@@ -37,3 +37,5 @@ resource "aws_instance" "web" {
     Name = "bastion"
   }
 }
+
+#git push test
